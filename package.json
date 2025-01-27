@@ -1,0 +1,19 @@
+{
+  "name": "malicious-hosts-bd",
+  "license": "BSD-3-Clause",
+  "author": {
+    "name": "Md. Touhidur Rahman",
+    "email": "তালিকা@তৌহিদুর.বাংলা",
+    "url": "তৌহিদুর.বাংলা"
+  },
+  "scripts": {
+    "format": "prettier --write scripts .github && bun scripts/format.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.2.0",
+    "@types/validator": "^13.12.2",
+    "prettier": "^3.4.2",
+    "typescript": "^5.7.3",
+    "validator": "^13.12.0"
+  }
+}
