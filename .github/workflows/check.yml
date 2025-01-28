@@ -18,5 +18,7 @@ jobs:
       - name: Install dependencies
         run: bun install
 
-      - name: Run formatter
-        run: bun run format
+      - name: Check formatting
+        run: |
+          bun run format
+          git diff --exit-code
