@@ -1,6 +1,7 @@
 # Title: Malicious Hosts BD
 
 220.158.233.41
+7f55.xyz
 8ykm.top
 banglanews.club
 crazygame.click
