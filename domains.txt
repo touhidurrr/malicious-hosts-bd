@@ -1,6 +1,7 @@
 # Title: Malicious Hosts BD
 
 220.158.233.41
+57ct.xyz
 7f55.xyz
 8ykm.top
 banglanews.club
@@ -12,4 +13,5 @@ nagad88game.online
 noohapou.com
 steamcomnucity.com
 toptrend.tv
+ui32.xyz
 w76fjc.shop
