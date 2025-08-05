@@ -1,6 +1,7 @@
 # Title: Malicious Hosts BD
 
 220.158.233.41
+16gift.com
 57ct.xyz
 599cdn.com
 7f55.xyz
