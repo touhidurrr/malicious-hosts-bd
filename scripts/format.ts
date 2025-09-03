@@ -5,7 +5,9 @@ import { DOMAINS_FILE_PATH } from "./constants";
 const comments: string[] = [];
 const domains: string[] = [];
 
-(await Bun.file(DOMAINS_FILE_PATH).text()).split("\n").forEach((line) => {
+const domainsTxt = await Bun.file(DOMAINS_FILE_PATH).text();
+
+domainsTxt.split("\n").forEach((line) => {
   line = line.trim();
 
   if (!line) return;
