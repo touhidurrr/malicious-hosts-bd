@@ -1,6 +1,7 @@
 # Title: Malicious Hosts BD
 
 220.158.233.41
+12320sw.com
 16gift.com
 57ct.xyz
 599cdn.com
@@ -16,6 +17,7 @@ loozoarooy.net
 mje37.top
 nagad88game.online
 noohapou.com
+p726swm.eu.cc
 pt43.top
 secb.xyz
 steamcomnucity.com
