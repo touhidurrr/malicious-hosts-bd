@@ -1,8 +1,8 @@
 # Title: Malicious Hosts BD
 
-220.158.233.41
 12320sw.com
 16gift.com
+220.158.233.41
 57ct.xyz
 599cdn.com
 7f55.xyz
@@ -11,6 +11,7 @@ avdzy.top
 banglanews.club
 crazygame.click
 ej93.top
+fjc.shop
 fopsoadseds.net
 h77h.xyz
 loozoarooy.net
@@ -24,5 +25,4 @@ steamcomnucity.com
 toptrend.tv
 ui32.xyz
 valorantbe.live
-fjc.shop
 zmni.xyz
